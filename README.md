@@ -11,4 +11,3 @@ Please note that the data may have missing values as some stores might not repor
 Hence, it will be required to treat them accordingly.
 
 
-I have used a Multiple linear Regression model in this code.
